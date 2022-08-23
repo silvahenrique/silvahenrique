@@ -2,7 +2,7 @@
 
 I’m Henrique Fernandes da Silva, I’m a Software Engineer, and I've been working in tech since 2016. 
 
-- 🔭 I’m currently working on a portuguese company as software engineer
+- 🔭 I’m currently working as a software engineer
 - 🌱 I’m currently learning many things including Data Science
 - ⚡ Give me a computer, a cup of coffee and a problem.
 
