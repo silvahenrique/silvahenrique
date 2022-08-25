@@ -45,4 +45,3 @@ Here are some of the technologies and tools that I work with:
 
 ![](https://komarev.com/ghpvc/?username=silvahenrique&label=PROFILE+VIEWS&style=flat-square)
 
-![Metrics](/github-metrics.svg)
