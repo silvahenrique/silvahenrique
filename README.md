@@ -45,3 +45,6 @@ Here are some of the technologies and tools that I work with:
 
 ![](https://komarev.com/ghpvc/?username=silvahenrique&label=PROFILE+VIEWS&style=flat-square)
 
+![Henrique Fernandes da Silva github activity graph](https://activity-graph.herokuapp.com/graph?username=silvahenrique&theme=react-dark)
+
+
