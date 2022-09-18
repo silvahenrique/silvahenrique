@@ -1,6 +1,10 @@
-### Hi there 👋
+## Hi there, I’m Henrique Fernandes da Silva 👋
 
-I’m Henrique Fernandes da Silva, I’m a Software Engineer, and I've been working in tech since 2016. 
+![](https://komarev.com/ghpvc/?username=silvahenrique&label=PROFILE+VIEWS&style=flat-square)
+[![Linkedin: H](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-f-silva/)](https://www.linkedin.com/in/henrique-f-silva/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/silvahenrique)](https://github.com/silvahenrique)
+
+I’m a Software Engineer, and I've been working in tech since 2016. 
 
 - 🔭 I’m currently working as a software engineer
 - 🌱 I’m currently learning many things including Data Science
@@ -13,8 +17,6 @@ I’m Henrique Fernandes da Silva, I’m a Software Engineer, and I've been work
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin: H](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-f-silva/)](https://www.linkedin.com/in/henrique-f-silva/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/silvahenrique)](https://github.com/silvahenrique)
 
 ### Technologies
 
@@ -42,5 +44,3 @@ Here are some of the technologies and tools that I work with:
     </a>
 </div>
 </details>
-
-![](https://komarev.com/ghpvc/?username=silvahenrique&label=PROFILE+VIEWS&style=flat-square)
