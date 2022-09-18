@@ -41,10 +41,10 @@ Here are some of the technologies and tools that I work with:
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvahenrique&layout=compact&langs_count=7&theme=dracula"/>
     </a>
 </div>
+![Henrique Fernandes da Silva github activity graph](https://activity-graph.herokuapp.com/graph?username=silvahenrique&theme=react-dark)
 </details>
 
 ![](https://komarev.com/ghpvc/?username=silvahenrique&label=PROFILE+VIEWS&style=flat-square)
 
-![Henrique Fernandes da Silva github activity graph](https://activity-graph.herokuapp.com/graph?username=silvahenrique&theme=react-dark)
 
 
