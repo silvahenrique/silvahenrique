@@ -35,6 +35,7 @@ Here are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 
+<!--
 <details>
   <summary>:bar_chart: GitHub Stats</summary>
 <div align="left">
@@ -44,3 +45,12 @@ Here are some of the technologies and tools that I work with:
     </a>
 </div>
 </details>
+-->
+<div align="left">
+    <a href="https://github.com/silvahenrique">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvahenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvahenrique&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+</div>
+
+
