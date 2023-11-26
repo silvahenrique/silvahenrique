@@ -46,11 +46,13 @@ Here are some of the technologies and tools that I work with:
 </div>
 </details>
 -->
+
+<!--
 <div align="left">
     <a href="https://github.com/silvahenrique">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvahenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvahenrique&layout=compact&langs_count=7&theme=dracula"/>
     </a>
 </div>
-
+-->
 
