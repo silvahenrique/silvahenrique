@@ -1,5 +1,6 @@
 ## Hi, I’m Henrique 👋
 
+#### Bio
 I’m a Software Engineer, and I've been working in tech since 2016. 
 
 - 🔭 I’m currently working as a software engineer
