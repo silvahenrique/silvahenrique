@@ -1,4 +1,4 @@
-## Hi there, I’m Henrique Fernandes da Silva 👋
+## Hi, I’m Henrique 👋
 
 ![](https://komarev.com/ghpvc/?username=silvahenrique&label=PROFILE+VIEWS&style=flat-square)
 [![Linkedin: H](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-f-silva/)](https://www.linkedin.com/in/henrique-f-silva/)
